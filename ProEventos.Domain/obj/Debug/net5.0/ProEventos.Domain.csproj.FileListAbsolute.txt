@@ -1,0 +1,12 @@
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Domain/bin/Debug/net5.0/ProEventos.Domain.deps.json
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Domain/bin/Debug/net5.0/ProEventos.Domain.dll
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Domain/bin/Debug/net5.0/ref/ProEventos.Domain.dll
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Domain/bin/Debug/net5.0/ProEventos.Domain.pdb
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.csprojAssemblyReference.cache
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.AssemblyInfoInputs.cache
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.AssemblyInfo.cs
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.csproj.CoreCompileInputs.cache
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.dll
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Domain/obj/Debug/net5.0/ref/ProEventos.Domain.dll
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.pdb

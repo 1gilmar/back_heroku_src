@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{354D86DF-85B4-4ED8-8A47-C064EE0F5FEA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProEventos.Persistence/Contratos/IPalestrantePersist.cs">
+    <Files>
+      <File FileName="ProEventos.Persistence/Contratos/IGeralPersist.cs" Line="1" Column="1" />
+      <File FileName="ProEventos.Persistence/EventoPersist.cs" />
+      <File FileName="ProEventos.Persistence/GeralPersist.cs" />
+      <File FileName="ProEventos.Persistence/PalestrantePersist.cs" />
+      <File FileName="ProEventos.API/Program.cs" />
+      <File FileName="ProEventos.Persistence/Contratos/IPalestrantePersist.cs" Line="14" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProEventos" expanded="True">
+            <Node name="ProEventos.Domain" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProEventos.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

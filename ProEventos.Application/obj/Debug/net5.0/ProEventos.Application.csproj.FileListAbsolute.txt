@@ -1,0 +1,17 @@
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/bin/Debug/net5.0/ProEventos.Application.deps.json
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/bin/Debug/net5.0/ProEventos.Application.dll
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/bin/Debug/net5.0/ref/ProEventos.Application.dll
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/bin/Debug/net5.0/ProEventos.Application.pdb
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.csprojAssemblyReference.cache
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.AssemblyInfoInputs.cache
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.AssemblyInfo.cs
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.csproj.CoreCompileInputs.cache
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.dll
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/obj/Debug/net5.0/ref/ProEventos.Application.dll
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.pdb
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/bin/Debug/net5.0/ProEventos.Domain.dll
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/bin/Debug/net5.0/ProEventos.Persistence.dll
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/bin/Debug/net5.0/ProEventos.Domain.pdb
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/bin/Debug/net5.0/ProEventos.Persistence.pdb
+/Users/gilmarborges/Documents/projetos/angular/ProEvento/Back/src/ProEventos.Application/obj/Debug/net5.0/ProEventos.Application.csproj.CopyComplete
